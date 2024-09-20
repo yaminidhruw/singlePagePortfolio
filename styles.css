@@ -75,4 +75,12 @@ footer {
         display: block;
         margin: 0.5rem 0;
     }
+
+    .row, .container {
+        display:inline-block;
+    }
+
+    .contact-info {
+        text-align:center;
+    }
 }
