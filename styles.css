@@ -39,7 +39,10 @@ img {
 
 .row {
     display:flex;
-    justify-content: space-around;
+}
+
+.project {
+    width: 100vh;
 }
 
 a{
