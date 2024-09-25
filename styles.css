@@ -71,10 +71,12 @@ img {
     padding: 5px 5px;
 }
 
-.row {
+/* .row {
     display:flex;
+    justify-content: spacce-around;
+    column-gap: 25px;
 }
-
+ */
 .project {
     width: 100vh;
 }
