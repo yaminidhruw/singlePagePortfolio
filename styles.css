@@ -1,3 +1,7 @@
+html {
+    scroll-behaviour: smooth;
+}
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -35,6 +39,8 @@ section {
 
 img {
     width: 30%;
+    border: 1px solid red;
+    border-radius: 12px;
 }
 
 .row {
