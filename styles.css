@@ -43,7 +43,7 @@ img {
     border-radius: 12px;
 }
 
-.item1 { grid-area: header; }
+/* .item1 { grid-area: header; }
 .item2 { grid-area: heading1; }
 .item3 { grid-area: heading2; }
 .item4 { grid-area: heading3; }
@@ -70,13 +70,13 @@ img {
     text-align: center;
     padding: 5px 5px;
 }
-
-/* .row {
+ */
+.row {
     display:flex;
     justify-content: spacce-around;
     column-gap: 25px;
 }
- */
+
 .project {
     width: 100vh;
 }
